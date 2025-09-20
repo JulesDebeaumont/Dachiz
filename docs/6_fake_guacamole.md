@@ -1,8 +1,8 @@
 ---
-title: Guacamole
+title: Faux guacamole
 ---
 
-# 🥗 Guacamole
+# 🥗 Faux guacamole
 
 - Difficulté : Facile
 - Coût : ???
