@@ -1,9 +1,10 @@
 ---
 title: Chocolat
 parent: Conseils
+layout: default
 ---
 
-# Chocolat
+# 🍫 Chocolat
 
 ## Faire fondre
 
