@@ -2,7 +2,7 @@
 title: Lasagnes
 ---
 
-# Lasagnes
+# 🧄 Lasagnes
 
 - Difficulté : Facile
 - Coût : ???
