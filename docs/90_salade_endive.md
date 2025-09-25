@@ -12,7 +12,7 @@ title: Salade d'endive
 - 1 pomme
 - 2 ou 3 endives
 - 50g de roquefort
-- [vinaigrette]({% link 100_vinaigrette.md %})
+- [vinaigrette]({% link 91_vinaigrette.md %})
 
 ## ▶️ Instructions
 
