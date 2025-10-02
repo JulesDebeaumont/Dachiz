@@ -23,8 +23,8 @@ title: Riz pilaf
 ## ▶️ Instructions
 
 - Couper l'oignon en tout petit bout et cuir dans l'huile
-- Une fois cuit, ajouter le riz et laisser 1 à 2 minutes sans eau à feu doux
+- Une fois cuit, ajouter le riz et laisser 30 secondes sans eau à feu doux en remuant
 - Ajouter le cubor, le poivre et l'origan
 - Ajouter l'eau
 - Laisser cuire à couvert à feu doux pendant 10min
-- Couper le feu et laisser gonfler 2min
+- Couper le feu et laisser gonfler 2min avec le couvercle toujours
