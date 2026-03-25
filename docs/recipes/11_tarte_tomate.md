@@ -14,10 +14,10 @@ title: Tarte à la tomate
 - 2 tomates coeur de boeuf
 - 180g de farine
 - 50g de fromage blanc
-- 1CS d"huile d'olive
+- 1CS d'huile d'olive
 - 50g d'eau
 - 2CS de moutarde en grain
-- sel , poivre et origan
+- sel poivre et origan
 
 ## 📜 Instructions
 
