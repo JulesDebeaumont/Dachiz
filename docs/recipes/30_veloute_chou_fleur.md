@@ -16,7 +16,7 @@ title: Velouté chou-fleur
 - sel, poivre et muscade
 - 2CS de crême fraiche
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Cuir et mix chou-fleur avec le verre d'eau et le Cubor pour 30min
 - Assaisonnement et on ajoute la crême fraiche

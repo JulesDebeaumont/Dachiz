@@ -11,6 +11,6 @@ title: Vinaigrette
 - 1CF moutarde en grain
 - sel et poivre
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Tout mélanger

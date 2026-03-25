@@ -19,7 +19,7 @@ title: Tarte à la tomate
 - 2CS de moutarde en grain
 - sel , poivre et origan
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Tout mélanger sauf les tomates dans un saladier
 - Faire une pâte et mettre au frais

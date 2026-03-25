@@ -12,7 +12,7 @@ title: Pâtes carbo sans crême
 - Lardons ou bacon
 - Pâtes
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Préparé les pâtes
 - Préparé les lardons / bacon

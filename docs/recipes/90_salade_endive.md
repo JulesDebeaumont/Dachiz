@@ -11,7 +11,7 @@ title: Salade d'endive
 - 50g de roquefort
 - [vinaigrette]({% link 91_vinaigrette.md %})
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Rincer et couper les endives, ne pas garder la partie dur à la racine
 - Retirer les pépins et la peau de la pomme

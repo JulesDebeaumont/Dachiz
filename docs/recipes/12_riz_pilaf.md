@@ -16,7 +16,7 @@ title: Riz pilaf
 - 0.5 cube de Cubor
 - poivre et origan
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Couper l'oignon en tout petit bout et cuir dans l'huile
 - Une fois cuit, ajouter le riz et laisser 30 secondes sans eau à feu doux en remuant

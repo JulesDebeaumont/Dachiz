@@ -14,6 +14,6 @@ title: Faux guacamole
 - 0.5 citron
 - 3 ou 4CS fromage blanc
 
-## ▶️ Instructions
+## 📜 Instructions
 
 Ecraser avocat avec fourchette et tout mélanger

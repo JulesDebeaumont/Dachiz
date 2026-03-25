@@ -24,10 +24,10 @@ Dans les bouillons (par bouillon) :
 
 - 120g de poulet
 - 2 oeufs molets
-- 100g de courgette
+- 100g de courgette ou 100g de choux
 - 150g de pâtes
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Ajouter tout les ingrédients du bouillons
 - Faire boullir et bien mélanger

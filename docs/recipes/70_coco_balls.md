@@ -13,7 +13,7 @@ title: Mini boules de coco
 - 100g de coco
 - 1 plaque de chocolat blanc
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Faire fondre l'huile de coco (20 secondes au micro-ondes)
 - Tout mélanger sauf le chocolat

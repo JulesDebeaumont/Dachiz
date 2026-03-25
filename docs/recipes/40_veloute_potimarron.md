@@ -16,7 +16,7 @@ title: Velouté potimarron
 - 1CS d'huile
 - 2CS de crême fraiche
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Laver les légumes
 - Retirer les pépins du potimarron, on garde la peau
@@ -26,6 +26,6 @@ title: Velouté potimarron
 - Ajouter la crême
 - Remix vitesse max si trop épais
 
-## Accompagnements
+## 🍻 Accompagnements
 
 - Tartines de fromage

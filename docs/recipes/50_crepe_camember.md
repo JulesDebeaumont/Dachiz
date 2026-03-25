@@ -20,7 +20,7 @@ Pour la partie cheese :
 - beurre pour la poêle
 - 1 oeuf par crêpe
 
-## ▶️ Instructions
+## 📜 Instructions
 
 - Faire la pâte à crèpe
 - Beurrer la poêle
@@ -30,6 +30,6 @@ Pour la partie cheese :
 - Mettre un couvercle sur poêle et attendre que l'oeuf cuise
 - Refermer la crêpe sur les côtés
 
-## Accompagnements
+## 🍻 Accompagnements
 
 - Salade
