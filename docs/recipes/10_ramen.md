@@ -16,7 +16,7 @@ Le bouillon :
 - 1CS d'huile de sésame
 - 1CF de pâte de piment
 - 1CS de vinaigre de riz
-- 1 <i>Kub or</i> entier ou bouillon de légume
+- 1 <i>Kub Or</i> entier ou bouillon de légume
 - 10g ail émincé
 - gimgembre en poudre
 

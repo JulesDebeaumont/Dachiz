@@ -7,18 +7,18 @@ title: Pâtes carbo sans crême
 ## 🥄 Ingrédients
 
 - (1 oeuf entier + 1 jaune d'oeuf) par personne
-- Parmesan
+- Pecorino (ou parmesan)
+- Guanciale (ou lardons, bacon)
+- Pâtes (spaghettis)
 - Poivre
-- Lardons ou bacon
-- Pâtes
 
 ## 📜 Instructions
 
 - Préparé les pâtes
-- Préparé les lardons / bacon
-- Mélanger les oeufs avec le parmesan râpé dans saladier
+- Préparé la viande
+- Mélanger les oeufs avec le fromage râpé dans saladier
 - Ajouter le poivre
 - Ajouter 2CS d'eau des pâtes, idéalement juste avant de les égoutés
-- Mettre les pâtes cuites dans poêle lardon / bacon
+- Mettre les pâtes cuites dans poêle de viande
 - Ajouter la carbo avec feu éteind
-- Ralumer le feu une minute si carbo trop liquide
+- Rallumer le feu une minute si carbo trop liquide
