@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: Voir les recettes
-      link: /recipes/000_lexique
+      link: /recipes/10_ramen
 ---
