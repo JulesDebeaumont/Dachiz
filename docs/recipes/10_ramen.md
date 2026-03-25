@@ -10,13 +10,13 @@ Pour 2 personnes
 
 Le bouillon :
 
-- 1L5 d'eau
+- 1.5L d'eau
 - 1CS de pâte miso
 - 3CS de sauce soja salée
 - 1CS d'huile de sésame
 - 1CF de pâte de piment
 - 1CS de vinaigre de riz
-- 1 cubor entier ou bouillon de légume
+- 1 <i>Kub or</i> entier ou bouillon de légume
 - 10g ail émincé
 - gimgembre en poudre
 
