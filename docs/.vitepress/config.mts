@@ -15,6 +15,10 @@ export default defineConfig({
       prev: false,
       next: false,
     },
+    returnToTopLabel: "Retour en haut",
+    darkModeSwitchLabel: "Apparance",
+    lightModeSwitchTitle: "Clair",
+    darkModeSwitchTitle: "Sombre",
     search: {
       provider: "local",
       options: {
