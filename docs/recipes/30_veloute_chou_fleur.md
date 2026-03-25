@@ -4,9 +4,6 @@ title: Velouté chou-fleur
 
 # 🥦 Velouté choux-fleur
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🔪 Matériels
 
 - Robot chauffeur/mixeur

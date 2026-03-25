@@ -4,9 +4,6 @@ title: Riz pilaf
 
 # 🍚 Riz pilaf
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🔪 Matériels
 
 - Casserole avec couvercle
@@ -18,7 +15,6 @@ title: Riz pilaf
 - 1CS d'huile
 - 0.5 cube de Cubor
 - poivre et origan
-
 
 ## ▶️ Instructions
 

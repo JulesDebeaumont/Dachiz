@@ -4,9 +4,6 @@ title: Salade d'endive
 
 # 🥬 Salade d'endive
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🥄 Ingrédients
 
 - 1 pomme

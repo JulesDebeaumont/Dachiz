@@ -4,9 +4,6 @@ title: Velouté potimarron
 
 # 🎃 Velouté potimarron
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🔪 Matériels
 
 - Robot chauffeur/mixeur

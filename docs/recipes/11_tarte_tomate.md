@@ -4,9 +4,6 @@ title: Tarte à la tomate
 
 # 🍅 Tarte à la tomate
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🔪 Matériels
 
 - 2 feuilles de papier sulfurisé
@@ -21,7 +18,6 @@ title: Tarte à la tomate
 - 50g d'eau
 - 2CS de moutarde en grain
 - sel , poivre et origan
-
 
 ## ▶️ Instructions
 

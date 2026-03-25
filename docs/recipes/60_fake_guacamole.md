@@ -4,9 +4,6 @@ title: Faux guacamole
 
 # 🥗 Faux guacamole
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🥄 Ingrédients
 
 - 1 tomate coupée en morceaux

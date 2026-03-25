@@ -4,9 +4,6 @@ title: Mini boules de coco
 
 # 🥥 Mini boules de coco
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🥄 Ingrédients
 
 - 125g de noix de coco râpé

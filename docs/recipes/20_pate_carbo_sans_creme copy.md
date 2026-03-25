@@ -4,9 +4,6 @@ title: Pâtes carbo sans crême
 
 # 🍝 Pâtes carbo sans crême
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🥄 Ingrédients
 
 - (1 oeuf entier + 1 jaune d'oeuf) par personne

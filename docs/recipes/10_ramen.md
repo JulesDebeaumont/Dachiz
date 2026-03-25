@@ -4,14 +4,12 @@ title: Ramen
 
 # 🍜 Ramen
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🥄 Ingrédients
 
 Pour 2 personnes
 
-Le bouillon : 
+Le bouillon :
+
 - 1L5 d'eau
 - 1CS de pâte miso
 - 3CS de sauce soja salée
@@ -22,7 +20,8 @@ Le bouillon :
 - 10g ail émincé
 - gimgembre en poudre
 
-Dans les bouillons (par bouillon) : 
+Dans les bouillons (par bouillon) :
+
 - 120g de poulet
 - 2 oeufs molets
 - 100g de courgette

@@ -4,19 +4,17 @@ title: Crêpes au camembert
 
 # 🧀 Crêpes au camembert
 
-- Difficulté : Facile
-- Coût : ???
-
 ## 🥄 Ingrédients
 
-Pour 12 crêpes : 
+Pour 12 crêpes :
 
 - 250g farine
 - 4 oeufs
 - 600ml de lait
 - 50g de beurre
 
-Pour la partie cheese : 
+Pour la partie cheese :
+
 - 1 camembert
 - fromage rapé
 - beurre pour la poêle
