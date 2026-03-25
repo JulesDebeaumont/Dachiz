@@ -2,7 +2,7 @@
 title: Lexique
 ---
 
-## Lexique
+# 🧷 Lexique
 
 - `min` : minute
 - `CS` : cuillère à soupe
