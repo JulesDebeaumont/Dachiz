@@ -1,11 +1,11 @@
 :root {
-  --vp-c-brand-1: #36d48a;
-  --vp-c-brand-2: #20a874;
-  --vp-button-brand-bg: #238d5c;
+  --vp-c-brand-1: #d49536;
+  --vp-c-brand-2: #d4af36;
+  --vp-button-brand-bg: #8d7d23;
 }
 
 .gradient-title {
-  background: linear-gradient(90deg, #42d372, #445ce4);
+  background: linear-gradient(90deg, #d36442, #e1e444);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;

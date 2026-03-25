@@ -7,12 +7,6 @@ hero:
   tagline: Les recettes qui déchirent
   actions:
     - theme: brand
-      text: Les recettes
+      text: Voir les recettes
       link: /recipes/10_ramen
-
-features:
-  - title: Diversité
-    icon: 🥘
-  - title: Pas de pub
-    icon: 🔪
 ---

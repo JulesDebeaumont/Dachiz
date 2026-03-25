@@ -18,12 +18,12 @@ export function computeSidebar() {
   const fileToWritePath = ".vitepress/generated/sidebar.ts";
   const foldersSidebar: TSidebarFolder[] = [
     {
-      path: "./documentation",
-      label: "Documentation",
+      path: "./recipes",
+      label: "Recettes",
       children: [
         {
-          path: "./documentation/exemples",
-          label: "Exemples",
+          path: "./recipes/tips",
+          label: "Conseils",
         },
       ],
     },
