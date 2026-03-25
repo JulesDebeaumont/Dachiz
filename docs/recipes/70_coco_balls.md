@@ -18,6 +18,6 @@ title: Mini boules de coco
 - Faire fondre l'huile de coco (20 secondes au micro-ondes)
 - Tout mélanger sauf le chocolat
 - Faire des boules et mettre au frais
-- Faire fondre le [chocolat]({% link tips/1_chocolat.md %})
+- Faire fondre le [chocolat](/recipes/tips/1_chocolat.html#faire-fondre)
 - Napper les boules de chocolat
 - Remettre au frais 15min
