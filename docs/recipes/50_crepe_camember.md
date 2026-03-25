@@ -6,7 +6,7 @@ title: Crêpes au camembert
 
 ## 🥄 Ingrédients
 
-Pour 12 crêpes :
+Pour la pâte (12 crêpes) :
 
 - 250g farine
 - 4 oeufs
