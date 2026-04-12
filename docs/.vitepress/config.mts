@@ -7,7 +7,7 @@ export default defineConfig({
   description: "Dachiz, les recettes qui déchirent",
   base: "/Dachiz/",
   themeConfig: {
-    nav: [{ text: "Recettes", link: "/recipes/10_ramen" }],
+    nav: [{ text: "Recettes", link: "/recipes/100_ramen" }],
 
     sidebar,
     outlineTitle: "Sur cette page",
