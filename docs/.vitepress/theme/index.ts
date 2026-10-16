@@ -1,4 +1,12 @@
+// .vitepress/theme.index.ts
 import DefaultTheme from "vitepress/theme";
-import "./custom.css";
+import { ThemePicker } from "vitepress-bigbang";
+import "vitepress-bigbang/style.css";
 
-export default DefaultTheme;
+export default {
+  extends: DefaultTheme,
+  setup() {
+    ThemePicker.setPrimary("Cyan");
+    ThemePicker.setSurface("Slate");
+  },
+};

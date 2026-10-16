@@ -1,41 +1,16 @@
-import { defineConfig } from "vitepress";
-import { sidebar } from "./generated/sidebar";
+import { defineConfig, mergeConfig, UserConfig } from "vitepress";
+import { sidebar } from "./generated/sidebar.ts";
+import { vitepressBigBangConfig, frenchTranslate } from "vitepress-bigbang";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
-  title: "Dachiz",
-  description: "Dachiz, les recettes qui déchirent",
-  base: "/Dachiz/",
-  themeConfig: {
-    nav: [{ text: "Recettes", link: "/recipes/100_ramen" }],
-
-    sidebar,
-    outlineTitle: "Sur cette page",
-    docFooter: {
-      prev: false,
-      next: false,
+export default defineConfig(
+  mergeConfig(vitepressBigBangConfig as UserConfig, {
+    title: "Dachiz",
+    description: "Dachiz, les recettes qui déchirent",
+    base: "/Dachiz/",
+    themeConfig: {
+      sidebar,
+      ...frenchTranslate,
     },
-    returnToTopLabel: "Retour en haut",
-    darkModeSwitchLabel: "Apparance",
-    lightModeSwitchTitle: "Clair",
-    darkModeSwitchTitle: "Sombre",
-    search: {
-      provider: "local",
-      options: {
-        translations: {
-          button: {
-            buttonText: "Recherche",
-          },
-          modal: {
-            footer: {
-              navigateText: "Naviguer",
-              selectText: "Sélectionner",
-              closeText: "Fermer",
-            },
-            noResultsText: "Aucun résultat pour ",
-          },
-        },
-      },
-    },
-  },
-});
+  }),
+);

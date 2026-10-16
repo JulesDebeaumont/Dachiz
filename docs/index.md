@@ -1,12 +1,14 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: <span class="gradient-title">Dachiz</span>
-  tagline: Les recettes qui déchirent
-  actions:
-    - theme: brand
-      text: Voir les recettes
-      link: /recipes/100_ramen
 ---
+
+<script setup>
+import { onMounted } from 'vue'
+import { useRouter, withBase } from 'vitepress'
+import { sidebar } from "./.vitepress/generated/sidebar";
+
+onMounted(() => {
+  const router = useRouter()
+  router.go(withBase(sidebar[0].link.replace('.md', '')))
+})
+</script>
