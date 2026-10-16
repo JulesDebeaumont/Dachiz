@@ -2,5 +2,8 @@ import { computeSidebar, computeIndexMd } from "vitepress-bigbang/scripts";
 
 console.log("Compute started...");
 computeSidebar();
-computeIndexMd();
+computeIndexMd({
+  primary: "Cyan",
+  surface: "Slate",
+});
 console.log("🎉 Compute done");
