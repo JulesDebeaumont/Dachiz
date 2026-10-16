@@ -6,6 +6,7 @@
     "docs:preview": "npm run compute-docs && vitepress preview"
   },
   "devDependencies": {
+    "@types/node": "^26.6.5",
     "ts-morph": "^27.0.2",
     "tsx": "^4.23.15",
     "typescript": "^5.9.3",
