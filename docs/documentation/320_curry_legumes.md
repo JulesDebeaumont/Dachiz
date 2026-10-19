@@ -21,7 +21,7 @@ title: Curry de légumes
 - Couper les légumes en dés, de la taille d'un pouce
 - Faire torréfier le curry
 - Ajouter les légumes coupés et mélanger pendant 2 minutes à feu moyen
-- Ajouter le lait de coco, et mettre à niveau avec de l'eau pour que les légumes sois-quasi submergés
+- Ajouter le lait de coco et le cubor, et mettre à niveau avec de l'eau pour que les légumes sois-quasi submergés
 - Recouvrir et laisser mijoter à feu doux pendant 40min
 - Ajouter les pois chiche
 - Recouvrir et laisser mijoter à feux doux pendant 10min
