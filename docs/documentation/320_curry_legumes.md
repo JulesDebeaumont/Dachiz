@@ -10,7 +10,7 @@ title: Curry de légumes
 - 800g de pomme de terre
 - 300g de carotte
 - 200g de courgette
-- 500g de pois chiche
+- 300g de pois chiche
 - 400ml de lait coco
 - 1 cube de Cubor
 
@@ -22,7 +22,7 @@ title: Curry de légumes
 - Faire torréfier le curry
 - Ajouter les légumes coupés et mélanger pendant 2 minutes à feu moyen
 - Ajouter le lait de coco, et mettre à niveau avec de l'eau pour que les légumes sois-quasi submergés
-- Laisser mijoter à feu doux pendant 40min
+- Recouvrir et laisser mijoter à feu doux pendant 40min
 - Ajouter les pois chiche
-- Laisser mijoter à feux doux pendant 10min
+- Recouvrir et laisser mijoter à feux doux pendant 10min
 - Servire avec du [riz pilaf](/documentation/120_riz_pilaf.md)
