@@ -14,13 +14,13 @@ title: Riz pilaf
 - 1 oignon jaune
 - 1CS d'huile
 - 0.5 cube de Cubor
-- poivre et origan
+- poivre et origan ou herbes de provences
 
 ## 📜 Instructions
 
 - Couper l'oignon en tout petit bout et cuir dans l'huile
 - Une fois cuit, ajouter le riz et laisser 30 secondes sans eau à feu doux en remuant
-- Ajouter le cubor, le poivre et l'origan
+- Ajouter le cubor et l'assaisonnement
 - Ajouter l'eau
 - Laisser cuire à couvert à feu doux pendant 10min
 - Couper le feu et laisser gonfler 2min avec le couvercle toujours
